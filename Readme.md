@@ -2,7 +2,7 @@
 ```
 truffle migrate
 ```
-####### If a Contract is edited
+###### If a Contract is edited
 If a Contract is edited, we need to reset the blockchain and deploy our new contract as we cannot make a change in the Blockchain thus we need to reset it using this truffle command.
 ```
 truffle migrate --reset
