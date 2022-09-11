@@ -2,6 +2,7 @@
 ```
 truffle migrate
 ```
+E-matadaan, a online E-voting system using blockchain. Multiuser Sign up and authentication for an e-voting system which stores records on Ethereum based blockchain.
 ###### If a Contract is edited
 If a Contract is edited, we need to reset the blockchain and deploy our new contract as we cannot make a change in the Blockchain thus we need to reset it using this truffle command.
 ```
